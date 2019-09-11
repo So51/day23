@@ -1,0 +1,5 @@
+var s=5;
+HowToLabel : while ( s < 15) {
+ document.write("S = "+s+"<br>");
+ s++;
+}   
